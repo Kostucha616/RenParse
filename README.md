@@ -10,4 +10,4 @@ On first launch, will drop a .json config:
   "image extensions" is a list of image-specific ones. Reason it's split from misc is, for images we check at both game/path and game/images/path  
   "strings to skip" is whatever substrings or symbols you want to filter path-likes out by, ex. ** that build.classify uses  
 
-Meant to be used as a one-stop .exe <b>ran from 'project\game'</b>, can be found in releases
+Meant to be used as a one-stop .exe, can be found in releases
